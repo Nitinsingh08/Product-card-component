@@ -1,0 +1,66 @@
+html,
+body {
+    scroll-behavior: smooth;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: hsl(30, 38%, 92%) !important;
+}
+
+.card {
+    background-color: white !important;
+    border-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: 20px lightgrey !important;
+}
+
+.perfume {
+    font-size: 14px !important;
+}
+
+.btn,
+.svg {
+    background-color: hsl(158, 36%, 37%) !important;
+}
+
+.btn:hover,
+.svg:hover {
+    background-color: hsl(157, 56%, 19%) !important;
+}
+
+.title {
+    font-size: 12px !important;
+}
+
+p,
+.btn,
+span {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 500 !important;
+}
+
+h3,
+h2 {
+    font-family: 'Fraunces', serif;
+}
+
+.old-price {
+    text-decoration: line-through;
+}
+
+.btn {
+    padding-left: 45px !important;
+    padding-right: 45px !important;
+}
+
+h2 {
+    color: hsl(212, 21%, 14%);
+}
+
+h3 {
+    color: hsl(158, 36%, 37%) !important;
+}
+
+p,
+span {
+    color: hsl(228, 12%, 48%);
+}
